@@ -28,10 +28,10 @@ npm install -g typescript
 6) After that, type this (creates a basic package.json):
 npm init --yes
 
-7) After that type in the temrinal (installs the library):
+7) After that type in the terminal (installs the library):
 npm i xrpl-accountlib
 
-8) After that type in the temrinal (installs the library):
+8) After that type in the terminal (installs the library):
 npm i xrpl-client
 
 9) Type in therminal (this is just in case you want to modify the code, to modify it you will always do that): tsc -w
