@@ -34,11 +34,11 @@ npm i xrpl-accountlib
 8) After that type in the terminal (installs the library):
 npm i xrpl-client
 
-9) Type in therminal (this is just in case you want to modify the code, to modify it you will always do that): tsc -w
-(don't close that terminal)
+9) Type in the terminal (this is just in case you want to modify the code, to modify it you will always do that): tsc -w
+(an don't close not use that terminal)
 
 10) Usage:
-    To SIGN a transaction offline disconnect internet and type in the terminal: node indexsign <secret_type> <secret> <destination_address> <amount> <sequence>
+    To SIGN a transaction offline disconnect internet and type in a new terminal: node indexsign <secret_type> <secret> <destination_address> <amount> <sequence>
 
 11) Usage:
     To SUBMIT a transaction online connect internet and type in the terminal: node indexsubmit <account> <tx_blob>
