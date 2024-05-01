@@ -39,7 +39,9 @@ npm i xrpl-client
 (an don't close not use that terminal, just leave it opened)
 
 10) Usage:
+    
     To SIGN a transaction offline disconnect internet and type in a new terminal: node indexsign <secret_type> <secret> <destination_address> <amount> <sequence>
 
-11) Usage:
+12) Usage:
+    
     To SUBMIT a transaction online connect internet and type in the terminal: node indexsubmit <account> <tx_blob>
